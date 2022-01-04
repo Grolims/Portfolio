@@ -16,6 +16,8 @@
   translation: Table of Contents
 - id: publish_date
   translation: "Publish date:"
+- id: context
+  translation: "Contexte"
 - id: last_updated
   translation: "Last updated:"
 - id: tags

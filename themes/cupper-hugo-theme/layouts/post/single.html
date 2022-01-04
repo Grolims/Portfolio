@@ -8,6 +8,24 @@
     </h1>
 
     <div class="date">
+      {{ $context := "yolo" }}
+      <strong>{{ "Contexte:" }} </strong> {{.Params.context}}
+    </div>
+
+    <div class="date">
+      {{ $context := "yolo" }}
+      <strong>{{ "Rôle:" }} </strong> {{.Params.role}}
+    </div>
+
+    <div class="date">
+      {{ $context := "yolo" }}
+      <strong>{{ "Lien:" }} </strong><a href={{.Params.lien}}>
+        {{.Params.lien}}
+      </a>
+      
+    </div>
+
+    <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
       {{ $publishDate := .PublishDate }}
       <strong>{{ T "publish_date" }} </strong>{{ $publishDate.Format $dateFormat }}
