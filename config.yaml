@@ -1,7 +1,7 @@
 baseURL: https://grolims.github.io/Portfolio/
 languageCode: en-us
-defaultContentLanguage: en
-title: Cupper
+defaultContentLanguage: fr
+title: Martin Mertenat
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
 disqusShortname: yourdiscussshortname
@@ -20,7 +20,7 @@ imaging:
 params:
   description: A man with too many interests
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  footer: Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser

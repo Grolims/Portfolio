@@ -1,16 +1,12 @@
 ---
 date: "2014-04-09"
-title: "About"
+title: "A propos"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Étudiant en ingénierie des médias passionné par la la culture numérique comme les jeux vidéos ,l'Esport et la photographie.
 
-It makes use of a variety of open source projects including:
-
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+|   |  |
+|---------|--------|
+| Ou suis je     | Jura Suisse, Neuchatel, Vaud   |
+| Année de naissance    | 1995  |
+| Contact | martin.mertenat@heig-vd.ch |
