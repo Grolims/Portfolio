@@ -1,8 +1,11 @@
 ---
-title: "Résumé article 1"
+title: "Visualisation de données"
 date: 2020-08-04T21:05:05-05:00
-categories: Accesibility
-tags: [game design, ux, accesibility]
+Contexte: "Bachelor en ingénieur des médias"
+Role: "Développeur"
+Liens: "https://vestermikk.github.io/"
+categories: Developpement
+tags: [D3, Javascript, Dataviz]
 
 ---
 
