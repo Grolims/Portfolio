@@ -9,6 +9,14 @@ tags: [Dataviz, Infographie, EspritAnalytique]
 ---
  Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec une infographiqe dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias
 
+## infographie
+
+  {{< figureCupper
+img="info.PNG" 
+caption="Infographie ( retrouver la en meuilleur qualité dans le rapport)."  
+command="Original">}}
+
+
 
 ## Introduction
 Issue de Justin.tv en 2011 puis acquise par Amazon en 2014, Twitch.tv est devenue la plateforme streaming phare durant l’année Covid. Elle a subi pendant cette période un gain de popularité et tend vers une diversification de ses contenus et de ses utilisateurs. Ce rapport examine cette croissance durant la période de janvier 2020 à janvier 2021 et tente d’en déceler l’impact et l’évolution future.
