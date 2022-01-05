@@ -22,8 +22,7 @@
       <strong>{{ "Lien:" }} </strong><a href={{.Params.lien}}>
         {{.Params.lien}}
       </a>
-      
-    </div>
+
 
     <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
@@ -33,6 +32,8 @@
         
       {{ end }}
     </div>
+
+
 
     {{ with .Params.tags }}
       <div class="tags">
