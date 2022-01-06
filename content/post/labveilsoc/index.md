@@ -1,5 +1,5 @@
 ---
-title: "Analyse de tendance - Twitch"
+title: "Analyse de tendances"
 date: 2020-06-05T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "https://bit.ly/3ET7BI5"
@@ -7,7 +7,10 @@ role: "Rédacteur, graphisme"
 tags: [Dataviz, Infographie, EspritAnalytique]
 
 ---
- Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec une infographiqe dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias
+## Contexte
+
+## Le projet
+ Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec la création d'une infographiqe dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias.
 
 ## infographie
 
