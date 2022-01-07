@@ -11,7 +11,7 @@ tags: [Collaboration, Développement, FrontEnd, Leaflet, Vue, Laravel ]
 ## Contexte
 Réalisation en groupe de 7 personnes du éveloppement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des semestres 1 à 4 de notre formation.
 
- Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu.
+ Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu dans le but de valoriser la promotion des villes suisses.
 
 ## Le projet
  Le résultat est une **application** disponible sur mobile et desktop. Il est présenté
@@ -38,4 +38,10 @@ command="Original">}}
  {{< figureCupper
 img="carte1.PNG" 
 caption="Gestion de la géolocalistation et de l'apparition d'élément sur une carte ."  
+command="Original">}}
+
+
+ {{< figureCupper
+img="jeux.png" 
+caption="Apercu de la version desktop"  
 command="Original">}}

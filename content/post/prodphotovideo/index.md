@@ -5,16 +5,17 @@ context: "Bachelor en ingénieurie des médias et Hobby"
 role: "Photographe, Montage, StoryBoard"
 lien: "Sur demande"
 tags: [Collaboration, Photographie, Vidéo, CoursMétrage,]
+toc: true
 
 ---
 Production de contenus médias / audiovisuelles sous différents formats : 
 
 
-* Photographie : technique de photographie et analyse d'images
+* **Photographie** : technique de photographie et analyse d'images
 
-* Vidéos: création de cour métrage, vulgarisation, interviews
+* **Vidéos**: création de cour métrage, vulgarisation, interviews
 
-* Son: création sous forme de podcast audio
+* **Son**: gestion et étalonange du son dans la vidéos, création de podcast
 
 
 ## Photographies
@@ -40,12 +41,14 @@ img="papi.jpg"
 caption="Photgraphie paysage"  
 command="Original">}}
 
-### Cours production contenue
-Création de photohraphie afin de répondre à un brief créatif
+### Cours production contenue médias
+Création de photographies afin de répondre à un brief créatif
 
 #### Le brief
 
-Vos clients aimeraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction « imaginaires » (fantastique/science-fiction/mystère etc) mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables etc, et des réflexions autour de celles-ci. Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché montre que la classe 20-50 ans est la plus concernée. L’article principal sera consacré à la Maison d’Ailleurs et sa photo fera la couverture.
+Vos clients aimeraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction « imaginaire (fantastique/science-fiction/mystère etc) mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables etc, et des réflexions autour de celles-ci. 
+
+Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché montre que la classe 20-50 ans est la plus concernée. L’article principal sera consacré à la Maison d’Ailleurs et sa photo fera la couverture.
 
 #### Les photos
 La première photo se veut intrigante, on se met à la place d’un promeneur
@@ -71,16 +74,32 @@ command="Original">}}
 
 ## Vidéos 
 ### Analyse de marché
-Création d'une vidéo démontrant le processus générique d'achat.
+Création d'une vidéo didactique en group démontrant le processus générique d'achat dans le cadre du cours analyse de marché
 
-Rôle : Rédacteur, voie off
+*Projet de groupe*
+*Rôle : Rédacteur / Question interviews / Maquette*
+{{< vimeo 502942135 >}}
+
+ {{< figureCupper
+img="maquette.PNG" 
+caption="Maquette présentation réseau sociaux"  
+command="Original">}}
+
+
+### Deli'vrac
+Réalisation d'une stratégie de communication avec la création de plusieurs contenus médias dont une vidéo et des publications sur les réseaux sociaux
+
+
+*Projet de groupe*
+*Rôle : Rédacteur / Voie off*
 {{< youtube hc9fAKjfzmQ >}}
 
 
-### TechAV
+### Cours techniques audiovisuelles
 Réaliser une fausse pub de prévention d’une durée de 30 secondes ave la création d'un plan de découpage, d'un storyboard et d'un plan de séquences.
 
-Rôle: Caméraman / Réalisateur / Story Board
+*Projet de groupe*
+*Rôle: Caméraman / Réalisateur / Story Board*
 
  {{< figureCupper
 img="plansol.PNG" 
@@ -92,6 +111,7 @@ img="storyboard.PNG"
 caption="Image story board"  
 command="Original">}}
 
+#### Spot publicitaire
 {{< rawhtml >}} 
 <video width=100% controls autoplay>
     <source src="static\TECHAV20_B7_consommation.mp4" type="video/webm">

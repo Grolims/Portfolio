@@ -18,9 +18,9 @@ imaging:
   quality: 99
 
 params:
-  description: A man with too many interests
+  description: Bienvenue sur mon portfolio
   homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
-  footer: Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
+  footer: Copyright © Martin Mertenat Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme)
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   codePenUser: someUser
