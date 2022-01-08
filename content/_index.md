@@ -14,7 +14,7 @@ title: "Martin Mertenat"
 
 Bonjour et bienvenue sur mon portfolio tu retrouveras ici différents projets réalisés durant mon parcours qui à débuté par un apprentissage d’informaticien suivi d’une école supérieure en informatique et maintenant un bachelor en ingénieurie des médias.
 
-Mais aussi d'autre projets qui sorte du cadre scolaires pour aller vers une aprochhe plus personelles comme mes différents passion et expérience dans le social au travers de mon service civil.
+Mais aussi d'autre projets qui sortent du cadre scolaires pour aller vers une aprochhe plus personelles comme mes différentes passions.
 
 
  **Bonne visite !**
