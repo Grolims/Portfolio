@@ -2,13 +2,18 @@
 title: "Visualisation de données"
 date: 2020-08-04T21:05:05-05:00
 context: "Bachelor en ingénieur des médias"
-lien: "https://vestermikk.github.io/"
+lien: "https://github.com/TehAwol/VisualDon/tree/main/projet"
 role: "Développeur"
-tags: [D3, Javascript, Dataviz, Illustrator, Photoshop, Figma]
+tags: [D3, Javascript, Dataviz, Leaflet, API,   ]
 
 ---
-Réalisation de graphiques avec D3 et javascript pour représenter évolution de l'industrie du de l'esport.
+## Contexte
+Projet pour le cours Visualisation de données ou le but est de créer une visualisation à partir de plusieur jeux de données. La visualisatio doit faire passer un message, raconter une "histoire", ainsi décrire le contexte dans lequel s'inscrivent les graphiques
 
+## Projet
+Réalisation de graphiques avec D3 et javascript afin d'explorer les gains dans l'esports, comment ces derniers ont évolués et comment cette industrie se globalise.
+
+*Rôles: Préparation des données / Création du barchart*
 
 {{< figureCupper
 img="Esport1.PNG" 
