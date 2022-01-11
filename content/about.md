@@ -3,7 +3,9 @@ date: "2014-04-09"
 title: "Présentation"
 ---
 
-Étudiant en ingénierie des médias passionné par la la culture numérique comme les jeux vidéos ,l'Esport et la photographie.
+Martin 26 ans , étudiant en ingénierie des médias et passionné par la la culture numérique tel que les jeux vidéos l'esport et la photographie.
+
+Avec un intérêt pour le domaine l’expérience utilisateur (UX et UI)  et la mise en avant de l'humain dans la technologie et plus particulièrement l’accessibilité numérique qui me vient de mes expériences en tant qu’accompagnant de personnes en situation de handicap durant mon service civil.
 
 * **Ou suis-je ?**: Entre le canton du Jura, Neuchatel, Vaud   
  * **Année de naissance:** 1995
@@ -25,7 +27,5 @@ La formation d’ingénieur des médias est une formation bachelor qui se dérou
 {{< figure src="/images/planform.PNG" title="Plan formation" >}}
 
 
-
-
-Couplé avec un apprentissage d’informaticien, cette formation me permet de développer un profil polyvalent dans le de domaine du développement (**HTML CSS, base de données, javascript, technologie serveur**) dans la création et le prototypage d’interface ( **Photoshop, Illustrator, Figma, test utilisateur**) et dans la mise en place de projet numériques ( **gestion de projet agile, marketing digital**) mais surtout de compléter mes compétences en termes de graphisme, design et marketing. De plus la formation est complétée par une dimension transverse couvrant les aspects pluridisciplinaires, les compétences sociales et personnelles (soft skills) et la culture numérique.
+Couplé avec un apprentissage d’informaticien, cette formation me permet de développer un profil polyvalent dans le de domaine du développement (**HTML CSS, base de données, javascript, technologie serveur**) dans la création et le prototypage d’interface ( **Photoshop, Illustrator, Figma, test utilisateur**) et dans la mise en place de projet numériques ( **Marketing digital et expérience utilisateur**) mais surtout de compléter mes compétences en termes de graphisme, design et marketing. De plus la formation est complétée par une dimension transverse couvrant les aspects pluridisciplinaires, les compétences sociales et personnelles (soft skills) et la culture numérique.
 

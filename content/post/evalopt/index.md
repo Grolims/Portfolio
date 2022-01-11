@@ -15,7 +15,7 @@ Production de contenus médias, offre mise en place des stratégies digitales ad
 * **The snow school** : Ecole de ski
 * **The unnamed society** :Vendeur de produit de luxe
 * **Les Domaines de la Ville de Lausanne**: Vigneron et encaveur
-* **Canton de vaud**: Service publique
+***Canton de vaud**: Service publique
 
 ## Objectifs
 Le but de ces différents projet est d'analyser les besoins de chaque client et des les formaliser en solution concrète *cahier des charges, budget, livrable, maquette, stratégie*
