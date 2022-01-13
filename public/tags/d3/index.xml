@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>D3 on Martin Mertenat</title>
+    <link>https://grolims.github.io/Portfolio/tags/d3/</link>
+    <description>Recent content in D3 on Martin Mertenat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://grolims.github.io/Portfolio/tags/d3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Visualisation de données</title>
+      <link>https://grolims.github.io/Portfolio/visualdon/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/visualdon/</guid>
+      <description>Contexte Projet pour le cours Visualisation de données ou le but est de créer une visualisation à partir de plusieur jeux de données. La visualisatio doit faire passer un message, raconter une &amp;ldquo;histoire&amp;rdquo;, ainsi décrire le contexte dans lequel s&amp;rsquo;inscrivent les graphiques
+Projet Réalisation de graphiques avec D3 et javascript afin d&amp;rsquo;explorer les gains dans l&amp;rsquo;esports, comment ces derniers ont évolués et comment cette industrie se globalise.
+Rôles: Préparation des données / Création du barchart</description>
+    </item>
+    
+  </channel>
+</rss>

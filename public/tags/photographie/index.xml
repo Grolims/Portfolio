@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Photographie on Martin Mertenat</title>
+    <link>https://grolims.github.io/Portfolio/tags/photographie/</link>
+    <description>Recent content in Photographie on Martin Mertenat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Jun 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://grolims.github.io/Portfolio/tags/photographie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Production médias</title>
+      <link>https://grolims.github.io/Portfolio/prodphotovideo/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/prodphotovideo/</guid>
+      <description>Production de contenus médias / audiovisuelles sous différents formats :
+  Photographie : technique de photographie et analyse d&amp;rsquo;images
+  Vidéos: création de cour métrage, vulgarisation, interviews
+  Son: gestion et étalonange du son dans la vidéos, création de podcast
+  Photographies Photo personnelles Petit apercu des différentes photo réalisé pendant mon temps libre, un portfolio plus détaillé est en cours de création à l&amp;rsquo;adresse suivante : https://grolims.</description>
+    </item>
+    
+  </channel>
+</rss>

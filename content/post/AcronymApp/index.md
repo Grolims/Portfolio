@@ -27,7 +27,7 @@ Voici quelque capture d'écrans de la rélisation de ce projet, pour plus de dé
 
   {{< figureCupper
 img="Slide 3.png" 
-caption="Descritpion du concept"  
+caption="Description du concept"  
 command="Original">}}
 
 

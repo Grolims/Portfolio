@@ -1,137 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Cupper</title>
-    <link>https://martin.com/post/</link>
-    <description>Recent content in Blog on Cupper</description>
+    <title>Posts on Martin Mertenat</title>
+    <link>https://grolims.github.io/Portfolio/post/</link>
+    <description>Recent content in Posts on Martin Mertenat</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://martin.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://grolims.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Résumé article 1</title>
-      <link>https://martin.com/r%C3%A9sum%C3%A9-article-1/</link>
+      <title>Visualisation de données</title>
+      <link>https://grolims.github.io/Portfolio/visualdon/</link>
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/r%C3%A9sum%C3%A9-article-1/</guid>
-      <description>Comment rendre les jeux accessibles à tous les joueurs ?</description>
+      <guid>https://grolims.github.io/Portfolio/visualdon/</guid>
+      <description>Contexte Projet pour le cours Visualisation de données ou le but est de créer une visualisation à partir de plusieur jeux de données. La visualisatio doit faire passer un message, raconter une &amp;ldquo;histoire&amp;rdquo;, ainsi décrire le contexte dans lequel s&amp;rsquo;inscrivent les graphiques
+Projet Réalisation de graphiques avec D3 et javascript afin d&amp;rsquo;explorer les gains dans l&amp;rsquo;esports, comment ces derniers ont évolués et comment cette industrie se globalise.
+Rôles: Préparation des données / Création du barchart</description>
     </item>
     
     <item>
-      <title>Multiple Expandable Test</title>
-      <link>https://martin.com/multiple-expandable-test/</link>
-      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      <title>Production et vente d&#39;un produit média</title>
+      <link>https://grolims.github.io/Portfolio/evalopt/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/multiple-expandable-test/</guid>
-      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/36 &amp;ndash; Multiple expandable shortcodes do not work if they have the same inner text.
-expandable 1Same inner text.expandable 2Same inner text.expandable 3Different inner text.</description>
+      <guid>https://grolims.github.io/Portfolio/evalopt/</guid>
+      <description>Les projets Production de contenus médias, offre et mise en place destratégies digitales et stratégie de communication adaptées pour différents clients aux besoins divers et variés comme par exemple :
+ The snow school : Ecole de ski The unnamed society :Vendeur de produit de luxe Les Domaines de la Ville de Lausanne: Vigneron et encaveur *Canton de vaud: Service publique  Objectifs Le but de ces différents projets est d&amp;rsquo;analyser les besoins de chaque client et des les formaliser en solution concrète cahier des charges, budget, livrable, maquette, stratégie, concept original</description>
     </item>
     
     <item>
-      <title>Special Character Test</title>
-      <link>https://martin.com/special-character-test/</link>
-      <pubDate>Tue, 10 Sep 2019 20:26:08 -0500</pubDate>
+      <title>Production médias</title>
+      <link>https://grolims.github.io/Portfolio/prodphotovideo/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/special-character-test/</guid>
-      <description>Testing out GitHub issue https://github.com/zwbetz-gh/cupper-hugo-theme/issues/16
-Cette phrase prononcée par Greta Thunberg</description>
+      <guid>https://grolims.github.io/Portfolio/prodphotovideo/</guid>
+      <description>Production de contenus médias / audiovisuelles sous différents formats :
+  Photographie : technique de photographie et analyse d&amp;rsquo;images
+  Vidéos: création de cour métrage, vulgarisation, interviews
+  Son: gestion et étalonange du son dans la vidéos, création de podcast
+  Photographies Photo personnelles Petit apercu des différentes photo réalisé pendant mon temps libre, un portfolio plus détaillé est en cours de création à l&amp;rsquo;adresse suivante : https://grolims.</description>
     </item>
     
     <item>
-      <title>Katex Math Typesetting</title>
-      <link>https://martin.com/katex-math-typesetting/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Projet articulation</title>
+      <link>https://grolims.github.io/Portfolio/projetartc/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/katex-math-typesetting/</guid>
-      <description>Enable Katex in the config file by setting the katex param to true. This will import the necessary Katex CSS/JS.
-Note: Use the online reference of supported TeX functions.
-Some math:
-$$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$ $$ \varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887… $$
-More math:
-$$\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$ $$ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } $$</description>
+      <guid>https://grolims.github.io/Portfolio/projetartc/</guid>
+      <description>Contexte Réalisation en groupe de 7 personnes du éveloppement d’un produit web afin d’intégrer les différentes notions acquises dans le cadre des semestres 1 à 4 de notre formation.
+Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu dans le but de valoriser la promotion des villes suisses.
+Le projet Le résultat est une application disponible sur mobile et desktop.</description>
     </item>
     
     <item>
-      <title>Cupper Typography</title>
-      <link>https://martin.com/cupper-typography/</link>
-      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      <title>Analyse de tendances</title>
+      <link>https://grolims.github.io/Portfolio/labveilsoc/</link>
+      <pubDate>Fri, 05 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/cupper-typography/</guid>
-      <description>Headings ## Heading 2### Heading 3#### Heading 4##### Heading 5###### Heading 6 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Text *This text will be italic*_This will also be italic_**This text will be bold**__This will also be bold___You **can** combine them_ This text will be italic
-This will also be italic
-This text will be bold
-This will also be bold</description>
+      <guid>https://grolims.github.io/Portfolio/labveilsoc/</guid>
+      <description>Objectifs Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec la création d&amp;rsquo;une infographiqe dans le but d&amp;rsquo;identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias.
+Le projet Création d&amp;rsquo;un article de recherche appliquée sur l&amp;rsquo;anatomie d&amp;rsquo;une tendance avec la création d&amp;rsquo;une infographie. La tendance ici est le streaming de jeux vidéos via Twitch et comment la plateforme évolue et se transforme en réseau social grand public</description>
     </item>
     
     <item>
-      <title>Cupper Shortcodes</title>
-      <link>https://martin.com/cupper-shortcodes/</link>
-      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      <title>AcronymApp</title>
+      <link>https://grolims.github.io/Portfolio/acronymapp/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/cupper-shortcodes/</guid>
-      <description>blockquote {{&amp;lt; blockquote author=&amp;quot;Carl Jung&amp;quot; &amp;gt;}}Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.{{&amp;lt; /blockquote &amp;gt;}} Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness.</description>
+      <guid>https://grolims.github.io/Portfolio/acronymapp/</guid>
+      <description>Le contexte Travail un groupe dans le cadre du cours conception UX / UI afin de mettre en pratique les compétences acquisee durant tout le semestre de deuxième année.
+Le projet Création d&amp;rsquo;un concept d&amp;rsquo;application mobile sur la base de personas afin de permettre d&amp;rsquo;apprendre de manière ludique les différent acronymes utilisés par la HEIG-VD.
+Brief AcronymApp est une Webapp destinée à familiariser toutes les nouvelles personnes qui vont interagir sur le long terme avec la Heig-VD (à vousde déterminer qui iels sont) avec les très nombreux acronymes et abréviations utilisés par l’école.</description>
     </item>
     
     <item>
-      <title>NASA Images</title>
-      <link>https://martin.com/nasa-images/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      <title>Cloud Computing</title>
+      <link>https://grolims.github.io/Portfolio/travailes/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/nasa-images/</guid>
-      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty.
-The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth. Credits.The Moon is an astronomical body that orbits planet Earth and is Earth&amp;rsquo;s only permanent natural satellite.</description>
+      <guid>https://grolims.github.io/Portfolio/travailes/</guid>
+      <description>Le contexte Mandaté par l&amp;rsquo;entreprise Globaz SA mandaté afin d’évaluer les solutions de cloud1 public de les comparer avec le cloud privé interne de Globaz et de les tester en déployant un service de Globaz. Mais aussi la mise en place d&amp;rsquo;une intégration avec l’outil Vmware Automation.
+Le projet Actuellement l’entreprise Globaz dispose d’une infrastructure virtuelle gérée avec la suite d’outil VMware.
+Globaz gère toutes ses ressources en local dans leur centre de données, on peut qualifier cela de cloud « Privé ».</description>
     </item>
     
     <item>
-      <title>Quotes by Carl Jung</title>
-      <link>https://martin.com/quotes-by-carl-jung/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <title>Virtualisation de postes de travail</title>
+      <link>https://grolims.github.io/Portfolio/travailcfc/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/quotes-by-carl-jung/</guid>
-      <description>Even a happy life cannot be without a measure of darkness, and the word happy would lose its meaning if it were not balanced by sadness. It is far better to take things as they come along with patience and equanimity.&amp;mdash; Carl Jung The least of things with a meaning is worth more in life than the greatest of things without it.&amp;mdash; Carl Jung Who looks outside, dreams; who looks inside, awakes.</description>
-    </item>
-    
-    <item>
-      <title>Creating a New Theme</title>
-      <link>https://martin.com/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.com/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://martin.com/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.com/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://martin.com/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.com/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://martin.com/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://martin.com/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/▾ images/logo.png should become
-▾ &amp;lt;root&amp;gt;/▾ static/▾ images/logo.png Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://grolims.github.io/Portfolio/travailcfc/</guid>
+      <description>Le contexte Réalisation d&amp;rsquo;un travail de pratique individuel (TPI) afin de valider mon apprentissage d&amp;rsquo;informaticien. Le projet se déroule en interne à l’école des métiers techniques de Porrentruy. Le travail est réalisé sur une demande de la section informatique de l’école.
+Le projet L’EMT propose un nombre important de places d’apprentissage à plein temps au sein de l’école. Pour débuter une formation d’informaticien CFC, il est nécessaire d’effectuer un stage d’admission d’une durée de 2 jours.</description>
     </item>
     
   </channel>

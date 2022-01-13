@@ -1,189 +1,279 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Cupper</title>
-    <link>https://martin.com/tags/</link>
-    <description>Recent content in Tags on Cupper</description>
+    <title>Tags on Martin Mertenat</title>
+    <link>https://grolims.github.io/Portfolio/tags/</link>
+    <description>Recent content in Tags on Martin Mertenat</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://martin.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Aug 2020 21:05:05 -0500</lastBuildDate><atom:link href="https://grolims.github.io/Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>accesibility</title>
-      <link>https://martin.com/tags/accesibility/</link>
+      <title>API</title>
+      <link>https://grolims.github.io/Portfolio/tags/api/</link>
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/accesibility/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/api/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>game design</title>
-      <link>https://martin.com/tags/game-design/</link>
+      <title>D3</title>
+      <link>https://grolims.github.io/Portfolio/tags/d3/</link>
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/game-design/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/d3/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>ux</title>
-      <link>https://martin.com/tags/ux/</link>
+      <title>Dataviz</title>
+      <link>https://grolims.github.io/Portfolio/tags/dataviz/</link>
       <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/ux/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/dataviz/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>issue</title>
-      <link>https://martin.com/tags/issue/</link>
-      <pubDate>Wed, 17 Jun 2020 22:01:14 -0500</pubDate>
+      <title>Javascript</title>
+      <link>https://grolims.github.io/Portfolio/tags/javascript/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/issue/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>https://martin.com/tags/hugo/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Leaflet</title>
+      <link>https://grolims.github.io/Portfolio/tags/leaflet/</link>
+      <pubDate>Tue, 04 Aug 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/hugo/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/leaflet/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>katex</title>
-      <link>https://martin.com/tags/katex/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Budget</title>
+      <link>https://grolims.github.io/Portfolio/tags/budget/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/katex/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/budget/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>math</title>
-      <link>https://martin.com/tags/math/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>Collaboration</title>
+      <link>https://grolims.github.io/Portfolio/tags/collaboration/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/math/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/collaboration/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>typesetting</title>
-      <link>https://martin.com/tags/typesetting/</link>
-      <pubDate>Thu, 28 Mar 2019 00:00:00 +0000</pubDate>
+      <title>CoursMétrage</title>
+      <link>https://grolims.github.io/Portfolio/tags/coursm%C3%A9trage/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/typesetting/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/coursm%C3%A9trage/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>markdown</title>
-      <link>https://martin.com/tags/markdown/</link>
-      <pubDate>Thu, 14 Feb 2019 15:36:09 -0600</pubDate>
+      <title>Développement</title>
+      <link>https://grolims.github.io/Portfolio/tags/d%C3%A9veloppement/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/markdown/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/d%C3%A9veloppement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>shortcodes</title>
-      <link>https://martin.com/tags/shortcodes/</link>
-      <pubDate>Tue, 12 Feb 2019 23:39:06 -0600</pubDate>
+      <title>Ecommerce</title>
+      <link>https://grolims.github.io/Portfolio/tags/ecommerce/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/shortcodes/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/ecommerce/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>nasa</title>
-      <link>https://martin.com/tags/nasa/</link>
-      <pubDate>Thu, 27 Dec 2018 20:46:49 -0600</pubDate>
+      <title>Figma</title>
+      <link>https://grolims.github.io/Portfolio/tags/figma/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/nasa/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/figma/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>quotes</title>
-      <link>https://martin.com/tags/quotes/</link>
-      <pubDate>Wed, 26 Dec 2018 00:29:41 -0600</pubDate>
+      <title>FrontEnd</title>
+      <link>https://grolims.github.io/Portfolio/tags/frontend/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/quotes/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/frontend/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>command-line</title>
-      <link>https://martin.com/tags/command-line/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Illustrator</title>
+      <link>https://grolims.github.io/Portfolio/tags/illustrator/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/command-line/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/illustrator/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>theme</title>
-      <link>https://martin.com/tags/theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Laravel</title>
+      <link>https://grolims.github.io/Portfolio/tags/laravel/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/theme/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/laravel/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>fun</title>
-      <link>https://martin.com/tags/fun/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Photographie</title>
+      <link>https://grolims.github.io/Portfolio/tags/photographie/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/fun/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/photographie/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>git</title>
-      <link>https://martin.com/tags/git/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Photoshop</title>
+      <link>https://grolims.github.io/Portfolio/tags/photoshop/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/git/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/photoshop/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://martin.com/tags/go/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>StratégieDigital</title>
+      <link>https://grolims.github.io/Portfolio/tags/strat%C3%A9giedigital/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/go/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/strat%C3%A9giedigital/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>templates</title>
-      <link>https://martin.com/tags/templates/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title>Vidéo</title>
+      <link>https://grolims.github.io/Portfolio/tags/vid%C3%A9o/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/templates/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/vid%C3%A9o/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>jekyll</title>
-      <link>https://martin.com/tags/jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>Vue</title>
+      <link>https://grolims.github.io/Portfolio/tags/vue/</link>
+      <pubDate>Tue, 16 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/jekyll/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/vue/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>migration</title>
-      <link>https://martin.com/tags/migration/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <title>EspritAnalytique</title>
+      <link>https://grolims.github.io/Portfolio/tags/espritanalytique/</link>
+      <pubDate>Fri, 05 Jun 2020 21:05:05 -0500</pubDate>
       
-      <guid>https://martin.com/tags/migration/</guid>
+      <guid>https://grolims.github.io/Portfolio/tags/espritanalytique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infographie</title>
+      <link>https://grolims.github.io/Portfolio/tags/infographie/</link>
+      <pubDate>Fri, 05 Jun 2020 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/infographie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analyse</title>
+      <link>https://grolims.github.io/Portfolio/tags/analyse/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/analyse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cloud</title>
+      <link>https://grolims.github.io/Portfolio/tags/cloud/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CloudComputing</title>
+      <link>https://grolims.github.io/Portfolio/tags/cloudcomputing/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/cloudcomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Réseau</title>
+      <link>https://grolims.github.io/Portfolio/tags/r%C3%A9seau/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/r%C3%A9seau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technique</title>
+      <link>https://grolims.github.io/Portfolio/tags/technique/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/technique/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TPI</title>
+      <link>https://grolims.github.io/Portfolio/tags/tpi/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/tpi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtulisation</title>
+      <link>https://grolims.github.io/Portfolio/tags/virtulisation/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/virtulisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vmware</title>
+      <link>https://grolims.github.io/Portfolio/tags/vmware/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/vmware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsphere</title>
+      <link>https://grolims.github.io/Portfolio/tags/vsphere/</link>
+      <pubDate>Sun, 20 Jan 2019 21:05:05 -0500</pubDate>
+      
+      <guid>https://grolims.github.io/Portfolio/tags/vsphere/</guid>
       <description></description>
     </item>
     
