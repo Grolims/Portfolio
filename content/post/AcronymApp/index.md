@@ -9,10 +9,10 @@ tags: [Technique, TPI, Vsphere, Vmware, Virtulisation, Réseau, Analyse ]
 ---
 
 ## Le contexte
-Travail un groupe dans le cadre du cours conception UX / UI afin de mettre en pratique les compétences acquise durant le semestre 
+Travail un groupe dans le cadre du cours conception UX / UI afin de mettre en pratique les compétences acquisee durant tout le semestre de deuxième année.
 
 ## Le projet
-Création d'un concept d'application mobile qui correspond au propot-personas des futur utilisateurs.
+Création d'un concept d'application mobile sur la base de personas afin de permettre d'apprendre de manière ludique les différent acronymes utilisés par la HEIG-VD.
 
 ### Brief 
 AcronymApp est une Webapp destinée à familiariser toutes les nouvelles personnes qui vont interagir sur le long terme avec la Heig-VD (à vousde déterminer qui iels sont) avec les très nombreux acronymes et abréviations utilisés par l’école.

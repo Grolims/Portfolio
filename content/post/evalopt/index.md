@@ -8,9 +8,9 @@ role: "Redacteur, UX/UI, Budget"
 tags: [Collaboration, StratégieDigital, Budget, Ecommerce, Figma, Illustrator, Photoshop ]
 
 ---
-## Le projet
+## Les projets
 
-Production de contenus médias, offre mise en place des stratégies digitales adaptés et stratégie de communication pour différents clients aux besoins divers et variés comme par exemple :
+Production de contenus médias, offre et mise en place destratégies digitales et stratégie de communication adaptées pour différents clients aux besoins divers et variés comme par exemple :
 
 * **The snow school** : Ecole de ski
 * **The unnamed society** :Vendeur de produit de luxe
@@ -18,7 +18,7 @@ Production de contenus médias, offre mise en place des stratégies digitales ad
 ***Canton de vaud**: Service publique
 
 ## Objectifs
-Le but de ces différents projet est d'analyser les besoins de chaque client et des les formaliser en solution concrète *cahier des charges, budget, livrable, maquette, stratégie*
+Le but de ces différents projets est d'analyser les besoins de chaque client et des les formaliser en solution concrète *cahier des charges, budget, livrable, maquette, stratégie, concept original*
 
 
 {{< figureCupper
@@ -35,12 +35,12 @@ command="Original">}}
  {{< figureCupper
 img="maquette1.PNG" 
 img="maquette2.PNG" 
-caption="Réalisation de maquettes fonctionnelle et wireframe pour le site web."  
+caption="Réalisation de maquettes fonctionnelles et wireframse pour le site web."  
 command="Original">}}
 
  {{< figureCupper
 img="maquette1.PNG"  
-caption="Réalisation de maquettes fonctionnelles et wireframes pour les réseau sociaux"  
+caption="Réalisation de maquettes fonctionnelles et wireframes pour les réseaux sociaux"  
 command="Original">}}
 
 
