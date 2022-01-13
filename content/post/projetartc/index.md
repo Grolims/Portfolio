@@ -5,11 +5,11 @@ context: "Bachelor en ingénieurie des médias"
 lien: "Application: https://github.com/bread-inc/projart2021"
 
 role: "Développeur, Gestion de la carte, UX/UI"
-tags: [Collaboration, Développement, FrontEnd, Leaflet, Vue, Laravel ]
+tags: [Collaboration, Développement, FrontEnd, Leaflet, Vue, Laravel, BackEnd]
 
 ---
 ## Contexte
-Réalisation en groupe de 7 personnes du éveloppement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des semestres 1 à 4 de notre formation.
+Réalisation en groupe de 7 personnes du éveloppement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des de la première et la deuxième année de formation
 
  Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu dans le but de valoriser la promotion des villes suisses.
 
@@ -21,7 +21,7 @@ de jouer ou chercher un autre endroit dans la ville.
 
 ## Mon rôle
 
-Mon rôle au sein de ce projet et la mise en place du front end let les différentes interactions qui y sont reliées. Les différentes technologies utilisées sont **Blade** comme outil de templating, **Vue.js** pour la construction de l’interface de jeux et **Leaflet** une librairie JavaScript utilisée pour la gestion des cartes
+Mon rôle au sein de ce projet et la mise en place du front end let les différentes interactions qui y sont reliées. Les différentes technologies utilisées sont **Blade** comme outil de templating, **Vue.js** pour la construction de l’interface de jeux et **Leaflet** une librairie JavaScript utilisée pour la gestion des cartes.
 
 
  {{< figureCupper
@@ -31,7 +31,7 @@ command="Original">}}
 
  {{< figureCupper
 img="maquette.PNG" 
-caption="Réalisation de maquette fonctionnelle et wireframe."  
+caption="Réalisation de maquettes fonctionnelles et wireframe."  
 command="Original">}}
 
 

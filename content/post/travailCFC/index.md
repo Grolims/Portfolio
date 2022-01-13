@@ -43,5 +43,4 @@ par rapport à l’ancienne. La virtualisation de cette infrastructure va permet
 des tous les postes pour correspondre aux besoins des stages dans le long terme.
 
 ## Réalisation
-Pour commencer il a fallu rédiger le cahier des charges et réaliser un planning prévisionnel pour séparer le projet en plusieurs étapes.J’ai ensuite comparé divers matériels et commandé celui qui correspondait à mes besoins. J’ai créémes modèles de  achines virtuelles et les ai déployés avec un pool de type « Clones liés ». Pour terminer j’ai réalisé une documentation permettant de gérer cette infrastructure virtuelle dans le
-futur.
+Pour commencer il a fallu rédiger le cahier des charges et réaliser un planning prévisionnel pour séparer le projet en plusieurs étapes.J’ai ensuite comparé divers matériels et commandé celui qui correspondait à mes besoins. J’ai créé mes modèles de  machines virtuelles et les ai déployés avec un pool de type « Clones liés ». Pour terminer j’ai réalisé une documentation permettant de gérer cette infrastructure virtuelle dans le futur.
