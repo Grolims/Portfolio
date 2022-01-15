@@ -13,6 +13,5 @@ Avec un intérêt pour le domaine l’expérience utilisateur (UX et UI) et la m
 * **Ou suis-je ?**: Entre le canton du Jura, Neuchatel, Vaud   
  * **Année de naissance:** 1995
  * **Contact:** martin.mertenat@heig-vd.ch 
- * **CV:** [CV Martin Mertenat](https://drive.google.com/file/d/1YT9cJi6QaNZ7K38u-aS7jcUoGtwsBFFF/view?usp=sharing).
-
-
+ * **CV:** [CV Martin Mertenat](https://drive.google.com/file/d/1YT9cJi6QaNZ7K38u-aS7jcUoGtwsBFFF/view?usp=sharing)
+* **Réseaux sociaux** [Martin Mertenat](https://linktr.ee/martin.mertenat)
