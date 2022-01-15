@@ -2,14 +2,13 @@
 title: "Virtualisation de postes de travail"
 date: 2019-01-20T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
-lien: "https://tinyurl.com/u4yav8tf Le travail complet sur demande"
-role: "Redacteur"
-tags: [Technique, TPI, Vsphere, Vmware, Virtulisation, Réseau, Analyse ]
+lien: "https://tinyurl.com/ycxkkha7"
+role: "Projet individuel"
+tags: [Web, Marketing, Ecommerce, Wordpress ]
 
 ---
 
 ## Le contexte
-
 Dans le cadre du cours E-commerce, réalisé mimi site e-commerce et son rappot afin de se confronter de manière concrète à des situations classiques de gestion de projet e-commerce, e construire un envirnoment pour déplyoer différents outils digitaux et de développer nos compétences en e-commerce et consolider nos compétences en marketing digital
 
 ## Le projet
