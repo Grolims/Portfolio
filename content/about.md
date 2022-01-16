@@ -13,5 +13,5 @@ Mes expériences en tant qu’accompagnant de personnes en situation de handicap
 * **Où suis-je ?** Entre le canton du Jura, Neuchatel et 
  * **Année de naissance:** 1995
  * **Contact:** martin.mertenat@heig-vd.ch 
- * **CV:** [CV Martin Mertenat](https://drive.google.com/file/d/1YT9cJi6QaNZ7K38u-aS7jcUoGtwsBFFF/view?usp=sharing)
+ * **CV:** [CV Martin Mertenat](https://drive.google.com/file/d/1VBwFKap8v9aB-K4HlMYpxU3KLuONnYhb/view?usp=sharing)
 * **Réseaux sociaux:** [Martin Mertenat](https://linktr.ee/martin.mertenat)

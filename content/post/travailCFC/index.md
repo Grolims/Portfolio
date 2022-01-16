@@ -2,9 +2,9 @@
 title: "Virtualisation de postes de travail"
 date: 2019-01-20T21:05:05-05:00
 context: Apprentissage d'informaticien, travail de diplmôme 
-lien: "https://tinyurl.com/u4yav8tf Le travail complet sur demande"
+lien: "https://tinyurl.com/u4yav8tf"
 role: "Redacteur"
-tags: [Technique, TPI, Vsphere, Vmware, Virtulisation, Réseau, Analyse ]
+tags: [Technique, TPI, Vsphere, Vmware, Virtualisation, Réseau, Analyse ]
 
 ---
 
