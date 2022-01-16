@@ -1,5 +1,5 @@
 ---
-title: "E-commerce"
+title: "Analyse de services clouds"
 date: 2019-01-20T21:05:05-05:00
 context: "Ecole supérieur en informatique, travail de diplôme"
 lien: "Confidentiel"
@@ -9,7 +9,8 @@ tags: [Cloud, Cloud, Vmware, Virtulisation, Réseau, Analyse ]
 ---
 
 ## Le contexte
-Mandaté par l'entreprise Globaz SA mandaté afin d’évaluer les solutions de clouds publics de les comparer avec le cloud privé interne de Globaz et de les tester en déployant différents services. Mais aussi de mettre en place d'une intégration avec l’outil Vmware Automation.
+Mandaté par l'entreprise Globaz SA afin d’évaluer les solutions de clouds publics de les comparer avec le cloud privé interne de Globaz et de les tester en déployant différents services. Mais aussi de mettre en place d'une intégration avec l’outil Vmware Automation.
+
 ## Le projet
 Actuellement l’entreprise Globaz dispose d’une infrastructure virtuelle gérée avec la suite
 d’outil VMware.
@@ -26,6 +27,6 @@ le but d’intégrer la mise en place de machines virtuelles dans le cloud publi
 Prix pour l'un des meuilleures travaux dans la section "Informatique" avec la note de 6. 
 
 ## Objectifs
-Le but principal de ce projet est d’avoir une banque de données permettant de comparer les
+Le but principal de ce projet est de mettre à disposition une banque de données permettant de comparer les
 différents cloud afin de choisir la solution la plus appropriée pour le déploiement de futures
 machines virtuelles.

@@ -1,10 +1,10 @@
 ---
-title: "Production médias"
+title: "Productions médias"
 date: 2021-02-18T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias et Hobby"
 role: "Photographe, Montage, StoryBoard"
 lien: "Sur demande"
-tags: [Collaboration, Photographie, Vidéo, CourtMétrage, Création]
+tags: [Collaboration, Photographie, Vidéo, Court Métrage, Création]
 toc: true
 
 ---
@@ -15,7 +15,7 @@ Production de contenus médias / audiovisuelles sous différents formats durant 
 
 * **Vidéos**: création de courts métrages, vulgarisation, interviews
 
-* **Son**: gestion et étalonange du son, création de podcast
+* **Son**: gestion et étalonange du son, création de podcasts
 
 
 ## Photographies
@@ -46,7 +46,7 @@ Création de photographies afin de répondre à un brief créatif
 
 #### Le brief
 
-Vos clients aimeraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction « imaginaire (fantastique/science-fiction/mystère etc) mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables etc, et des réflexions autour de celles-ci. 
+Vos clients voudraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction "imaginaire" mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables etc, et des réflexions autour de celles-ci. 
 
 Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché montre que la classe 20-50 ans est la plus concernée. L’article principal sera consacré à la Maison d’Ailleurs et sa photo fera la couverture.
 
@@ -55,7 +55,7 @@ Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché
 * Une photo doit être un détail ou un gros plan de quelque chose
  * Une photo doit avoir une faible profondeur de champ 
 * Une photo doit être un plan général qui doit montrer un lieu, un espace 
-* On attend dans chacune de vos photos que le sujet soit identifié et lisible.
+* Le sujet doit ètre identifié et lisible.
 * On attend une certaine variété dans vos propositions
 
 #### Les photos
@@ -67,7 +67,7 @@ au thème « mystère »
 
  {{< figureCupper
 img="Mertenat Martin _1.jpg" 
-caption="**Une étrange découverte"  
+caption="Une étrange découverte"  
 command="Original">}}
 
 On fait maintenant face au fantôme qui maintient sa tête légèrement
@@ -82,13 +82,14 @@ command="Original">}}
 
 ## Vidéos 
 ### Deli'vrac
-Réalisation d'une stratégie de communication autour d'un angle spécifique, ici la "Valorisation de l’entreprise responsable du cycle de vie des bocaux" avec la création de plusieurs contenus médias dont une vidéo et des publications sur les réseaux sociaux ainsi qu'une stratégie de communication qui porte sur l'entreprise en général
+Réalisation d'une stratégie de communication autour d'un angle spécifique, ici la "Valorisation de l’entreprise responsable du cycle de vie des bocaux" avec la création de plusieurs contenus médias dont une vidéo et des publications sur les réseaux sociaux ainsi qu'une stratégie de communication qui porte sur l'entreprise en général.
 
 #### Contexte
 Deli’Vrac est une jeune entreprise dynamique active dans la vente en ligne de produits du terroir en vrac. À ses commandes: Sara Ruivo Pereira, jeune entrepreneuse qui n'a pas peur de relever les défis et retrousser ses manches.
 Pionnière dans son concept en suisse romande, elle doit encore étendre sa clientèle et la fidéliser.
 
 *Projet de groupe*
+
 *Rôle : Rédacteur / Questions interviews / Maquette*
 
 {{< vimeo 502942135 >}}
@@ -100,9 +101,10 @@ command="Original">}}
 
 
 ### Analyse de marché
-Création d'une vidéo didactique en groupe démontrant le processus générique d'achat dans le cadre du cours analyse de marché
+Création d'une vidéo didactique en groupe démontrant le processus générique d'achat dans le cadre du cours analyse de marché.
 
 *Projet de groupe*
+
 *Rôle : Rédacteur / Voie off*
 
 {{< youtube hc9fAKjfzmQ >}}
@@ -112,6 +114,7 @@ Création d'une vidéo didactique en groupe démontrant le processus générique
 Réaliser une fausse pub de prévention d’une durée de 30 secondes avec la création d'un plan de découpage, d'un storyboard et d'un plan séquence.
 
 *Projet de groupe*
+
 *Rôle: Caméraman / Réalisateur / Story Board*
 
  {{< figureCupper

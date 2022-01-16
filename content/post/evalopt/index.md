@@ -10,7 +10,7 @@ tags: [Collaboration, StratégieDigital, Budget, Ecommerce, Figma, Illustrator, 
 ---
 ## Les projets
 
-Production de contenus médias, offre et mise en place de stratégies digitales et stratégie de communication adaptées pour différents clients aux besoins divers et variés comme par exemple :
+Production de contenus médias, offre et mise en place de stratégies digitales et stratégies de communication adaptées pour différents clients aux besoins divers et variés comme par exemple :
 
 * **The snow school** : Ecole de ski
 * **The unnamed society** : Vendeur de produit de luxe
@@ -18,7 +18,9 @@ Production de contenus médias, offre et mise en place de stratégies digitales 
 
 
 ## Objectifs
-Le but de ces différents projets est d'analyser les besoins de chaque client et des les formaliser en solution concrète *cahier des charges, budget, livrable, maquette, stratégie, concept*.
+Le but de ces différents projets est d'analyser les besoins de chaque client et des les formaliser en solution concrète: 
+
+*Cahier des charges, budget, livrable, maquette, stratégie, concept*.
 
 Voici ci-dessous un aperçu des différents produits que jai réalisés:
 

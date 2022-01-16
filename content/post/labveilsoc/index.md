@@ -12,13 +12,13 @@ toc: true
  Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec la création d'une infographiqe dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias.
 
 ## Le projet
-Création d'un article de recherche appliquée sur l'anatomie d'une tendance avec la création d'une infographie. La tendance ici est le streaming de jeux vidéos via Twitch et comment la plateforme évolue et se transforme en réseau social grand public
+Création d'un article de recherche appliquée sur l'anatomie d'une tendance avec la création d'une infographie. La tendance ici est le streaming de jeux vidéos via Twitch et comment la plateforme évolue et se transforme en réseau social grand public.
 
 ## Infographie
 
   {{< figureCupper
 img="info.PNG" 
-caption="Infographie ( retrouver la en meuilleur qualité dans le rapport)."  
+caption="Infographie."  
 command="Original">}}
 
 

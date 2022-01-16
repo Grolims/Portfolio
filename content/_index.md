@@ -4,16 +4,16 @@ title: "Martin Mertenat"
 ---
 {{< ticks >}} 
 
-* 💻   Ingénieur de médias 
+* 💻   Ingénieur des médias 
 * 🌲    Promenade en forêt 
 * 📷    Photographie  
 * 🎬 Cinéma
-* 🕹️ Jeux vidéos 
+* 🕹️ Jeux vidéo 
 
 
 {{< /ticks >}}
 
-Bonjour, Salut et bienvenue sur mon portfolio. Tu retrouveras ici différents projets réalisés durant mon parcours qui a débuté par un apprentissage d’informaticien suivi (CFC) d’une école supérieure en informatique (ES) et maintenant une haute école ingénierie des médias (Bachelor)
+Bonjour, salut et bienvenue sur mon portfolio. Tu retrouveras ici différents projets réalisés durant mon parcours qui a débuté par un apprentissage d’informaticien (CFC), suivi  d’une école supérieure en informatique (ES) et maintenant une haute école en ingénierie des médias (Bachelor)
 
  **Bonne visite !**
 
