@@ -1,8 +1,8 @@
 ---
 title: "Virtualisation de postes de travail"
-date: 2019-01-20T21:05:05-05:00
+date: 2016-04-20T21:05:05-05:00
 context: Apprentissage d'informaticien, travail de diplmôme 
-lien: "https://tinyurl.com/u4yav8tf"
+lien: "https://tinyurl.com/3hz8w78a"
 role: "Redacteur"
 tags: [Technique, TPI, Vsphere, Vmware, Virtualisation, Réseau, Analyse ]
 
@@ -12,7 +12,7 @@ tags: [Technique, TPI, Vsphere, Vmware, Virtualisation, Réseau, Analyse ]
 
 Réalisation d'un travail de pratique individuel (TPI) afin de valider mon apprentissage d'informaticien. 
 Le projet se déroule en interne à l’Ecole des métiers techniques de Porrentruy (EMT). Le travail est réalisé sur
-une demande de la section informatique de l’école.
+une demande de la section informatique de l’école.(rapport de travail complet sur demande)
 
 ## Le projet
 L’EMT propose un nombre important de places d’apprentissage à plein temps au sein de l’école. Pour
