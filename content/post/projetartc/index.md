@@ -1,6 +1,6 @@
 ---
 title: "Projet d'articulation"
-date: 2020-06-16T21:05:05-05:00
+date: 2021-06-16T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "Application: https://github.com/bread-inc/projart2021"
 

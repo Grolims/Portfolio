@@ -1,6 +1,6 @@
 ---
 title: "Visualisation de données"
-date: 2020-08-04T21:05:05-05:00
+date: 2021-06-27T21:05:05-05:00
 context: "Bachelor en ingénieur des médias"
 lien: "https://github.com/TehAwol/VisualDon/tree/main/projet"
 role: "Développeur"

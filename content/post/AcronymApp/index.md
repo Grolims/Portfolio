@@ -1,6 +1,6 @@
 ---
 title: "AcronymApp"
-date: 2019-01-20T21:05:05-05:00
+date: 2020-01-20T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "https://tinyurl.com/298pfrj5"
 role: "Maquettage, Redaction"

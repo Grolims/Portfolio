@@ -3,8 +3,8 @@ title: "Analyse de services clouds"
 date: 2019-01-20T21:05:05-05:00
 context: "Ecole supérieur en informatique, travail de diplôme"
 lien: "Confidentiel"
-role: "Redacteur"
-tags: [Cloud, Cloud, Vmware, Virtulisation, Réseau, Analyse ]
+role: "Rédacteur"
+tags: [Cloud, Cloud, Vmware, Virtualisation, Réseau, Analyse ]
 
 ---
 
