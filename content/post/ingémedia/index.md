@@ -1,7 +1,7 @@
 ---
 title: "La formation d'ingénieur des médias"
 date: 2020-09-01 21:05:05-05:00
-context: "Bachelor en ingénieur des médias"
+context: "Bachelor en ingénieurie des médias"
 lien: "-"
 role: "Etudiant"
 tags: [Ingénieurie, Bachelor,]

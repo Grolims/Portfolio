@@ -4,7 +4,7 @@ date: 2020-06-05T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "https://bit.ly/3ET7BI5"
 role: "Rédacteur, graphisme"
-tags: [Dataviz, Infographie, EspritAnalytique]
+tags: [Dataviz, Infographie, Esprit Analytique]
 toc: true
 ---
 

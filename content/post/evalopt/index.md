@@ -1,11 +1,11 @@
 ---
-title: "Prodction et vente d'un produit média"
+title: "Production et vente d'un produit média"
 date: 2021-12-16T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "-"
 
-role: "Redacteur, UX/UI, Budget"
-tags: [Collaboration, StratégieDigital, Budget, Ecommerce, Figma, Illustrator, Photoshop ]
+role: "Rédacteur, UX/UI, Budget"
+tags: [Collaboration, Stratégie Digital, Budget, Ecommerce, Figma, Illustrator, Photoshop ]
 
 ---
 ## Les projets

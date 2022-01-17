@@ -4,7 +4,7 @@ date: 2019-01-20T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "https://tinyurl.com/ycxkkha7"
 role: "Projet individuel"
-tags: [Web, Marketing, Ecommerce, Wordpress, GoogleAnalytics ]
+tags: [Web, Marketing, Ecommerce, Wordpress, Google Analytics ]
 
 ---
 
