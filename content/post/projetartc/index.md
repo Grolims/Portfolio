@@ -2,7 +2,7 @@
 title: "Projet d'articulation"
 date: 2021-06-16T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
-lien: "Application: https://github.com/bread-inc/projart2021"
+lien: "https://github.com/bread-inc/projart2021"
 
 role: "Développeur, Gestion de la carte, UX/UI"
 tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Back End]
