@@ -4,7 +4,7 @@ date: 2020-01-20T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias"
 lien: "https://tinyurl.com/298pfrj5"
 role: "Maquettage, Redaction"
-tags: [Figame, UX, UI, Tests Utilisateurs]
+tags: [Figma, UX, UI, Tests Utilisateurs]
 
 ---
 
