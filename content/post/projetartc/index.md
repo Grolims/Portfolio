@@ -5,7 +5,7 @@ context: "Bachelor en ingénieurie des médias"
 lien: "https://github.com/bread-inc/projart2021"
 
 role: "Développeur, Gestion de la carte, UX/UI"
-tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Back End]
+tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Design]
 
 ---
 ## Contexte
@@ -23,7 +23,7 @@ de jouer ou chercher un autre endroit dans la ville.
 
 ## Mon rôle
 
-Mon rôle au sein de ce projet et la mise en place du front end et les différentes interactions qui y sont reliées. Les différentes technologies utilisées sont **Blade** comme outil de templating, **Vue.js** pour la construction de l’interface de jeux et **Leaflet** une librairie JavaScript utilisée pour la gestion des cartes.
+Mon rôle au sein de ce projet est la mise en place du front end et les différentes interactions qui y sont reliées et le design général de l'application. Les différentes technologies utilisées sont **Blade** comme outil de templating, **Vue.js** pour la construction de l’interface de jeux et **Leaflet** une librairie JavaScript utilisée pour la gestion des cartes.
 
 
  {{< figureCupper

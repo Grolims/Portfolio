@@ -2,7 +2,7 @@
 title: "Productions médias"
 date: 2021-02-18T21:05:05-05:00
 context: "Bachelor en ingénieurie des médias et Hobby"
-role: "Photographe, Montage, StoryBoard"
+role: "Photographe, Montage, StoryBoard, Cameraman"
 lien: "Sur demande"
 tags: [Collaboration, Photographie, Vidéo, Court Métrage, Création]
 toc: true
@@ -11,7 +11,7 @@ toc: true
 Production de contenus médias / audiovisuelles sous différents formats durant l'esemble de la formation : 
 
 
-* **Photographie** : technique de photographie et analyse d'images
+* **Photographie** : technique de photographie et analyse d'images, répondre à un brief créatif
 
 * **Vidéos**: création de courts métrages, vulgarisation, interviews
 
@@ -22,7 +22,7 @@ Production de contenus médias / audiovisuelles sous différents formats durant 
 
 ### Photo personnelles
 
-Petit apercu des différentes photo réalisées pendant mon temps libre, un portfolio plus détaillé est en cours de création à l'adresse suivante : https://grolims.github.io/AlbumPhoto/
+Petit apercu des différentes photo réalisées pendant mon temps libre.
 
  {{< figureCupper
 img="photoanimal.PNG" 
@@ -41,7 +41,7 @@ img="papi.jpg"
 caption="Photgraphie paysage"  
 command="Original">}}
 
-### Cours production contenue médias
+### Cours production contenu médias
 Création de photographies afin de répondre à un brief créatif
 
 #### Le brief
