@@ -1,44 +1,44 @@
 ---
 title: "Productions médias"
 date: 2021-02-18T21:05:05-05:00
-context: "Bachelor en ingénieurie des médias et Hobby"
-role: "Photographe, Montage, StoryBoard, Cameraman"
+context: "Bachelor en ingénierie des médias et Hobby"
+role: "Photographe, Montage, Storyboard, Cameraman"
 lien: "Sur demande"
 tags: [Collaboration, Photographie, Vidéo, Court Métrage, Création]
 toc: true
 
 ---
-Production de contenus médias / audiovisuelles sous différents formats durant l'esemble de la formation : 
+Production de contenus médias / audiovisuelles sous différents formats durant l'ensemble de la formation : 
 
 
 * **Photographie** : technique de photographie et analyse d'images, répondre à un brief créatif
 
 * **Vidéos**: création de courts métrages, vulgarisation, interviews
 
-* **Son**: gestion et étalonange du son, création de podcasts
+* **Son**: gestion et étalonnage du son, création de podcasts
 
 
 ## Photographies
 
 ### Photo personnelles
 
-Petit apercu des différentes photo réalisées pendant mon temps libre.
+Petit aperçu des différentes photo réalisées pendant mon temps libre.
 
  {{< figureCupper
 img="photoanimal.PNG" 
-caption="Photgraphie animalière"  
+caption="Photographie animalière"  
 command="Original">}}
 
 
  {{< figureCupper
 img="paya.jpg" 
-caption="Photgraphie animalière"  
+caption="Photographie animalière"  
 command="Original">}}
 
 
  {{< figureCupper
 img="papi.jpg" 
-caption="Photgraphie paysage"  
+caption="Photographie paysage"  
 command="Original">}}
 
 ### Cours production contenu médias
@@ -55,12 +55,12 @@ Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché
 * Une photo doit être un détail ou un gros plan de quelque chose
  * Une photo doit avoir une faible profondeur de champ 
 * Une photo doit être un plan général qui doit montrer un lieu, un espace 
-* Le sujet doit ètre identifié et lisible.
+* Le sujet doit être identifié et lisible.
 * On attend une certaine variété dans vos propositions
 
 #### Les photos
 La première photo se veut intrigante, on se met à la place d’un promeneur
-qui apercoit un fantôme, et prenant peur il cache derrière un
+qui aperçoit un fantôme, et prenant peur il cache derrière un
 arbre pour l’observer. Cette scène dégage quelque chose d’irréel, ce
 qui correspond à l’ambiance des différentes photos du moodboard et
 au thème « mystère »
@@ -90,7 +90,7 @@ Pionnière dans son concept en suisse romande, elle doit encore étendre sa clie
 
 *Projet de groupe*
 
-*Rôle : Rédacteur / Questions interviews / Maquette*
+*Rôle : Rédacteur / Questions interviews / Maquette / Cameraman*
 
 {{< vimeo 502942135 >}}
 
@@ -115,7 +115,7 @@ Réaliser une fausse pub de prévention d’une durée de 30 secondes avec la cr
 
 *Projet de groupe*
 
-*Rôle: Caméraman / Réalisateur / Story Board*
+*Rôle: Cameraman / Réalisateur / Story Board*
 
  {{< figureCupper
 img="plansol.PNG" 

@@ -8,7 +8,7 @@ tags: [D3, Javascript, Dataviz, Leaflet, API,   ]
 
 ---
 ## Contexte
-Projet final pour le cours "Visualisation de données" ou le but est de créer une visualisation à partir de plusieurs jeux de données. La visualisatio doit faire passer un message, raconter une "histoire", ainsi qu décrire le contexte dans lequel s'inscrivent les graphiques.
+Projet final pour le cours "Visualisation de données" ou le but est de créer une visualisation à partir de plusieurs jeux de données. Lavisualisation doit faire passer un message, raconter une "histoire", ainsi que décrire le contexte dans lequel s'inscrivent les graphiques.
 
 ## Projet
 Réalisation de graphiques avec D3 et Javascript afin d'explorer les gains dans l'esports, comment ces derniers ont évolué et comment cette industrie se globalise.

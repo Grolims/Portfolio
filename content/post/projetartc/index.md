@@ -1,15 +1,15 @@
 ---
 title: "Projet d'articulation"
 date: 2021-06-16T21:05:05-05:00
-context: "Bachelor en ingénieurie des médias"
+context: "Bachelor en ingénierie des médias"
 lien: "https://github.com/bread-inc/projart2021"
 
-role: "Développeur, Gestion de la carte, UX/UI"
+role: "Développeur, Gestion de la carte, UX/UI, Design"
 tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Design]
 
 ---
 ## Contexte
-Réalisation en groupe de 7 personnes du éveloppement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des de la première et la deuxième année de formation.
+Réalisation en groupe de 7 personnes du développement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des de la première et la deuxième année de formation.
 
  Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu dans le but de valoriser la promotion des villes suisses.
 
@@ -39,7 +39,7 @@ command="Original">}}
 
  {{< figureCupper
 img="carte1.PNG" 
-caption="Gestion de la géolocalistation et de l'apparition d'éléments sur une carte ."  
+caption="Gestion de la géolocalisation et de l'apparition d'éléments sur une carte ."  
 command="Original">}}
 
 

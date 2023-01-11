@@ -1,15 +1,14 @@
 ---
 title: "Analyse de tendances"
-date: 2020-06-05T21:05:05-05:00
-context: "Bachelor en ingénieurie des médias"
+context: "Bachelor en ingénierie des médias"
 lien: "https://bit.ly/3ET7BI5"
 role: "Rédacteur, graphisme"
-tags: [Dataviz, Infographie, Esprit Analytique]
+tags: [Dataviz, Infographie, Esprit analytique, Illustrator]
 toc: true
 ---
 
 ## Objectifs
- Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec la création d'une infographiqe dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias.
+ Mettre sur pied et réaliser une veille sociétale centrée sur le monde des médias avec la création d'une infographie dans le but d'identifier les pratiques digitales, développer une culture générale des médias, et approfondir la compréhension des usages et usagers des médias.
 
 ## Le projet
 Création d'un article de recherche appliquée sur l'anatomie d'une tendance avec la création d'une infographie. La tendance ici est le streaming de jeux vidéos via Twitch et comment la plateforme évolue et se transforme en réseau social grand public.

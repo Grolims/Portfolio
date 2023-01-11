@@ -1,10 +1,10 @@
 ---
 title: "La formation d'ingénieur des médias"
 date: 2020-09-01 21:05:05-05:00
-context: "Bachelor en ingénieurie des médias"
+context: "Bachelor en ingénierie des médias"
 lien: "-"
 role: "Etudiant"
-tags: [Ingénieurie, Bachelor,]
+tags: [Ingénieur, Bachelor, Média]
 
 ---
 
@@ -21,4 +21,4 @@ img="planform.PNG"
 caption="Plan de formation"  
 command="Original">}}
 
-Couplé avec un apprentissage d’informaticien, cette formation me permet de développer un profil polyvalent dans le de domaine du développement (**HTML CSS, base de données, javascript, technologie serveur**) dans la création et le prototypage d’interface ( **Photoshop, Illustrator, Figma, test utilisateur**) et dans la mise en place de projets numériques ( **Marketing digital et expérience utilisateur**) mais surtout de compléter mes compétences en termes de graphisme, design et marketing. De plus la formation est complétée par une dimension transverse couvrant les aspects pluridisciplinaires, les compétences sociales et personnelles (soft skills) et la culture numérique.
+Couplé avec un apprentissage d’informaticien, cette formation me permet de développer un profil polyvalent dans le de domaine du développement (**HTML CSS, base de données, JavaScript, technologie serveur**) dans la création et le prototypage d’interface ( **Photoshop, Illustrator, Figma, test utilisateur**) et dans la mise en place de projets numériques ( **Marketing digital et expérience utilisateur**) mais surtout de compléter mes compétences en termes de graphisme, design et marketing. De plus la formation est complétée par une dimension transverse couvrant les aspects pluridisciplinaires, les compétences sociales et personnelles (soft skills) et la culture numérique.

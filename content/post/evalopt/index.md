@@ -1,7 +1,7 @@
 ---
 title: "Production et vente d'un produit média"
 date: 2021-12-16T21:05:05-05:00
-context: "Bachelor en ingénieurie des médias"
+context: "Bachelor en ingénierie des médias"
 lien: "-"
 
 role: "Rédacteur, UX/UI, Budget"
@@ -18,11 +18,11 @@ Production de contenus médias, offre et mise en place de stratégies digitales 
 
 
 ## Objectifs
-Le but de ces différents projets est d'analyser les besoins de chaque client et des les formaliser en solution concrète: 
+Le but de ces différents projets est d'analyser les besoins de chaque client et de les formaliser en solution concrète: 
 
 *Cahier des charges, budget, livrable, maquette, stratégie, concept*.
 
-Voici ci-dessous un aperçu des différents produits que jai réalisés:
+Voici ci-dessous un aperçu des différents produits que j'ai réalisés:
 
 {{< figureCupper
 img="bu.PNG" 
@@ -38,7 +38,7 @@ command="Original">}}
  {{< figureCupper
 img="maquette1.PNG" 
 img="maquette2.PNG" 
-caption="Réalisation de maquettes fonctionnelles et wireframse pour le site web."  
+caption="Réalisation de maquettes fonctionnelles et wireframes pour le site web."  
 command="Original">}}
 
  {{< figureCupper
