@@ -13,7 +13,7 @@ title: "Martin Mertenat"
 
 {{< /ticks >}}
 
-Bonjour, salut et bienvenue sur mon portfolio. Tu retrouveras ici différents projets réalisés durant mon parcours qui a débuté par un apprentissage d’informaticien (CFC), suivi  d’une école supérieure en informatique (ES) et maintenant une haute école en ingénierie des médias (Bachelor)
+Bonjour, salut et bienvenue sur mon portfolio. Tu retrouveras ici différents projets réalisés durant mon parcours qui a débuté par un apprentissage d’informaticien (CFC), suivi  d’une école supérieure en informatique (ES) et terminé par une haute école en ingénierie des médias (Bachelor HES)
 
  **Bonne visite !**
 

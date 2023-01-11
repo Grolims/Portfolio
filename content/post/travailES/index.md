@@ -1,10 +1,10 @@
 ---
 title: "Analyse de services clouds"
 date: 2019-01-20T21:05:05-05:00
-context: "Ecole supérieur en informatique, travail de diplôme"
+context: "Ecole supérieure en informatique ES, travail de diplôme"
 lien: "Confidentiel"
 role: "Rédacteur"
-tags: [Cloud, Cloud, Vmware, Virtualisation, Réseau, Analyse ]
+tags: [Cloud, Vmware, Virtualisation, Réseau, Analyse ]
 
 ---
 
@@ -24,7 +24,7 @@ le but d’intégrer la mise en place de machines virtuelles dans le cloud publi
 
 ### Distinction
 
-Prix pour l'un des meuilleures travaux dans la section "Informatique" avec la note de 6. 
+Prix pour l’un des meilleures travaux dans la section "Informatique" avec la note de 6. 
 
 ## Objectifs
 Le but principal de ce projet est de mettre à disposition une banque de données permettant de comparer les

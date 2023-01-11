@@ -1,7 +1,7 @@
 ---
 title: "Virtualisation de postes de travail"
 date: 2016-04-20T21:05:05-05:00
-context: Apprentissage d'informaticien, travail de diplmôme 
+context: Apprentissage d'informaticien, travail de diplôme
 lien: "https://tinyurl.com/3hz8w78a"
 role: "Redacteur"
 tags: [Technique, TPI, Vsphere, Vmware, Virtualisation, Réseau, Analyse ]
@@ -25,8 +25,8 @@ n’est pas automatisée.
 Le but de ce projet et de virtualiser l’ensemble des postes pour permettre une gestion plus simplifiée
 et automatisée de ce parc informatique.
 
-### Distincition
-Evalué par les chefs expert cantonaux ICT-formation et nominé parmis les 10 meilleurs travaux pratiques de Suisse.
+### Distinction
+Evalué par les chefs expert cantonaux ICT-formation et nominé parmi les 10 meilleurs travaux pratiques de Suisse.
 
 {{< figureCupper
 img="Distinction_ICT.jpg" 
@@ -34,8 +34,7 @@ caption="Distinction"
 command="Original">}}
 
 ## Objectifs
-L’objectif principal de ce projet est d’avoir une nouvelle infrastructure stagiaire virtualisée
-fonctionnelle. qui permettra aux stagiaires de découvrir le métier d’informaticien.
+L’objectif principal de ce projet est d’avoir une nouvelle infrastructure stagiaire virtualisée fonctionnelle qui permettra aux stagiaires de découvrir le métier d’informaticien.
 
 Cela va aussi permettre à la section informatique d’avoir une infrastructure récente et performante
 par rapport à l’ancienne. La virtualisation de cette infrastructure va permettre d’automatiser la gestion
