@@ -5,7 +5,7 @@ context: "Bachelor en ingénierie des médias"
 lien: "-"
 
 role: "Rédacteur, UX/UI, Budget"
-tags: [Collaboration, Stratégie Digital, Budget, Ecommerce, Figma, Illustrator, Photoshop ]
+tags: [Collaboration, Stratégie Digitale, Budget, Ecommerce, Figma, Illustrator, Photoshop ]
 
 ---
 ## Les projets
