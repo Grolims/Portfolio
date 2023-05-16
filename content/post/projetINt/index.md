@@ -70,12 +70,12 @@ command="Original">}}
 
 
 {{< figureCupper
-img="fab.png" 
+img="fab.jpg" 
 caption="fabrication du photoverse "  
 command="Original">}}
 
 
 {{< figureCupper
-img="boot.png" 
+img="boot.jpg" 
 caption="Protoype du photoverse fonctionel "  
 command="Original">}}
