@@ -43,7 +43,7 @@ caption="Maquettes pour les différents passes-têtes"
 command="Original">}}
 
 {{< figureCupper
-img="crea.png" 
+img="crea.jpg" 
 caption="Fabrication du passe-têtes grandeur nature"  
 command="Original">}}
 
