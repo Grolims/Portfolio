@@ -2,8 +2,8 @@
 title: "PhotoVerse"
 date: 2022 01-20T21:05:05-05:00
 context: "Bachelor en ingénierie des médias"
-lien: "https://hology.webflow.io/"
-role: "Création filtre, idéation, Fabrication du photobot, Montage photographie, maquettage,"
+lien: "Sur demande"
+role: "Création filtre, idéation, fabrication du photobot, montage photographie, maquettage,"
 tags: [UI,UX,AR,VR,Travaux manuels,Tests Utilisateurs,Figma]
 
 ---
