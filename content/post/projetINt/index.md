@@ -33,7 +33,7 @@ command="Original">}}
 
 
 {{< figureCupper
-img="passetete.png" 
+img="passetete.jpg" 
 caption="Passes-têtes grandeur nature"  
 command="Original">}}
 
