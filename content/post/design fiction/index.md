@@ -1,6 +1,6 @@
 ---
 title: " Design Fiction "
-date: 2022 01-20T21:05:05-05:00
+date: 2022-01-20T21:05:05-05:00
 context: "Bachelor en ingénierie des médias"
 lien: "https://hology.webflow.io/"
 role: "Rédaction, concept, site web, création 3D"

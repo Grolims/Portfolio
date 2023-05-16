@@ -1,6 +1,6 @@
 ---
 title: "PhotoVerse"
-date: 2022 01-20T21:05:05-05:00
+date: 2022-01-20T21:05:05-05:00
 context: "Bachelor en ingénierie des médias"
 lien: "Sur demande"
 role: "Création des filtres, idéation, fabrication du photobot, montage photographie, maquettage,"
