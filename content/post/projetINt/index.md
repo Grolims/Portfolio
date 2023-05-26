@@ -13,18 +13,18 @@ Le projet d'intégration en collaboration avec le Musée suisse de l'appareil ph
 
 Le musée a pour vocation de préserver la mémoire des gestes et des  techniques photographiques dans tous ses domaines d’applications en
 conservant objets, instruments, mais également produits, procédés et fournitures photographiques, et encore toutes photographies,
-documentations, publications et illustrations en relation avec ce medium.
+documentations, publications et illustrations en relation avec ce médium.
 
 Le musée suisse de l’appareil photographique désire créer de la visibilité auprès du grand public de façon large dans le but d’amener des visiteurs payants au musée.
 
 ## Le projet
 
-### Passes-têtes
+### Passe-têtes
 Nous souhaitons proposer une balade
 suivant l’évolution des techniques
 photographique / des filtres à travers le
 temps via des passe-têtes augmentés en AR.
-Chaque passe-tête aurait pour but d’introduire une technique présente dans le musée. De plus les différents passes-têtes seront agrémenter d'un QR code permettant d’ouvrir le filtre en réalité augmentée sur instagram. (test des différents filtres sur ce compte https://www.instagram.com/limltesting/)
+Chaque passe-tête aurait pour but d’introduire une technique présente dans le musée. De plus les différents passes-têtes seront agrémentés d'un QR code permettant d’ouvrir le filtre en réalité augmentée sur Instagram. (test des différents filtres sur ce compte https://www.instagram.com/limltesting/)
 
 {{< figureCupper
 img="ideation.png" 
@@ -56,11 +56,11 @@ command="Original">}}
 
 ### Photobooth
 Le but de cette installation est de donner suite à la chronologie du parcours des passe-
-têtes et de s’imaginer l’évolution des filtres dans le future.
+têtes et de s’imaginer l’évolution des filtres dans le futur.
 
-Avec l’apparition de la réalité virtuelle et l’engouement autour des mondes virtuelles suite à l’annonce de Meta et de son méta-verse un monde parallèle, immersif,nous avons imaginé un concept ou le visiteur sera considéré comme un avatar virtuelle et ou les filtres seront remplacé par des objets tangibles, représenté dans le monde.
+Avec l’apparition de la réalité virtuelle et l’engouement autour des mondes virtuels suite à l’annonce de Meta et de son métaverse, un monde parallèle. Nous avons imaginé un concept ou le visiteur sera considéré comme un avatar virtuel ou les filtres seront remplacés par des objets tangibles, représentés dans le monde.
 
-Comme la création d’un personnage dans un jeu vidéo ou plus actuelle dans le méta-verse, le visiteur pourrait utiliser différents accessoires pour personnaliser son avatar virtuel. Le décor sera transposé sur un fond vert, ainsi le visiteur pourra choisir parmi un panel de plusieurs décors parmis celui qu’il préfère.
+Comme la création d’un personnage dans un jeu vidéo, le visiteur pourrait utiliser différents accessoires pour personnaliser son avatar virtuel. Le décor sera transposé sur un fond vert, ainsi le visiteur pourra choisir parmi un panel de plusieurs décors parmi ceux qu’il préfère.
 
 
 {{< figureCupper
@@ -71,11 +71,11 @@ command="Original">}}
 
 {{< figureCupper
 img="fab.jpg" 
-caption="fabrication du photoverse "  
+caption="Fabrication du photoverse "  
 command="Original">}}
 
 
 {{< figureCupper
 img="boot.jpg" 
-caption="Protoype du photoverse fonctionel "  
+caption="Prototype du photoverse fonctionel "  
 command="Original">}}
