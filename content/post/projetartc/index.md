@@ -9,7 +9,7 @@ tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Design]
 
 ---
 ## Contexte
-Réalisation en groupe de 7 personnes du développement d’un **produit web** afin d’intégrer les différentes notions acquises dans le cadre des de la première et la deuxième année de formation.
+Réalisation en groupe de 7 personnes du développement d’un **produit web** afin d’intégrer les différentes notions acquises dans durant les deux années de formations.
 
  Le but de ce projet est de donner suite aux Hackdays et à l’investigation que mène la SSR pour mettre en place une gamification de son contenu dans le but de valoriser la promotion des villes suisses.
 
