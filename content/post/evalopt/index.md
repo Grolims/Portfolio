@@ -10,9 +10,9 @@ tags: [Collaboration, Stratégie Digitale, Budget, Ecommerce, Figma, Illustrator
 ---
 ## Les projets
 
-Production de contenus médias, offre et mise en place de stratégies digitales et stratégies de communication adaptées pour différents clients aux besoins divers et variés comme par exemple :
+Production de contenus médias, offre et mise en place de stratégies digitales et stratégies de communication adaptées pour différents clients aux besoins divers et variés comme:
 
-* **The snow school** : Ecole de ski
+* **The snow school** : École de ski
 * **The unnamed society** : Vendeur de produit de luxe
 * **Les Domaines de la Ville de Lausanne**: Vigneron et encaveur
 

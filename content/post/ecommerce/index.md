@@ -4,7 +4,7 @@ date: 2019-01-20T21:05:05-05:00
 context: "Bachelor en ingénierie des médias"
 lien: "https://tinyurl.com/4zbetnxz"
 role: "Projet individuel"
-tags: [Web, Marketing, Ecommerce, Wordpress, Google Analytics ]
+tags: [Web, Marketing, E-commerce, Wordpress, Google Analytics ]
 
 ---
 
@@ -26,8 +26,8 @@ Construire un environnement pour déployer des approches et outils digitaux, com
 
 * **Contenu:** articles de blog, produits à vendre.
 
-* **Eléments techniques:** SEO, Google Analytics, Woocommerce.
+* **Éléments techniques:** SEO, Google Analytics, Woocommerce.
 
-* **Activité commerciale:** compte amazon, paypal fournisseur, packaging, logistique, définition des prix, moyens de paiement.
+* **Activité commerciale:** compte amazon, paypal, fournisseur, packaging, logistique, définition des prix, moyens de paiement.
 
 * **Marketing:** indicateur de performances, réseaux sociaux, e-mailing.

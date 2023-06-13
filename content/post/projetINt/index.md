@@ -24,22 +24,22 @@ Nous souhaitons proposer une balade
 suivant l’évolution des techniques
 photographique / des filtres à travers le
 temps via des passe-têtes augmentés en AR.
-Chaque passe-tête aurait pour but d’introduire une technique présente dans le musée. De plus les différents passes-têtes seront agrémentés d'un QR code permettant d’ouvrir le filtre en réalité augmentée sur Instagram. (test des différents filtres sur ce compte https://www.instagram.com/limltesting/)
+Chaque passe-tête aurait pour but d’introduire une technique présente dans le musée. De plus les différents passe-têtes seront agrémentés d'un QR code permettant d’ouvrir le filtre en réalité augmentée sur Instagram. (test des différents filtres sur ce compte https://www.instagram.com/limltesting/)
 
 {{< figureCupper
 img="ideation.png" 
-caption="Idéation passes-têtes"  
+caption="Idéation passe-têtes"  
 command="Original">}}
 
 
 {{< figureCupper
 img="passetete.jpg" 
-caption="Passes-têtes grandeur nature"  
+caption="Passe-têtes grandeur nature"  
 command="Original">}}
 
 {{< figureCupper
 img="maquette.png" 
-caption="Maquettes pour les différents passes-têtes"  
+caption="Maquettes pour les différents passe-têtes"  
 command="Original">}}
 
 {{< figureCupper
@@ -49,7 +49,7 @@ command="Original">}}
 
 {{< figureCupper
 img="filtre.webp" 
-caption="Exemple filtre instagram le daguerréotype "  
+caption="Exemple filtre Instagram le daguerréotype "  
 command="Original">}}
 
 
@@ -58,7 +58,7 @@ command="Original">}}
 Le but de cette installation est de donner suite à la chronologie du parcours des passe-
 têtes et de s’imaginer l’évolution des filtres dans le futur.
 
-Avec l’apparition de la réalité virtuelle et l’engouement autour des mondes virtuels suite à l’annonce de Meta et de son métaverse, un monde parallèle. Nous avons imaginé un concept ou le visiteur sera considéré comme un avatar virtuel ou les filtres seront remplacés par des objets tangibles, représentés dans le monde.
+Avec l’apparition de la réalité virtuelle et l’engouement autour des mondes virtuels suite à l’annonce de Meta et de son métavers, un monde parallèle. Nous avons imaginé un concept ou le visiteur sera considéré comme un avatar virtuel ou les filtres seront remplacés par des objets tangibles, représentés dans le monde.
 
 Comme la création d’un personnage dans un jeu vidéo, le visiteur pourrait utiliser différents accessoires pour personnaliser son avatar virtuel. Le décor sera transposé sur un fond vert, ainsi le visiteur pourra choisir parmi un panel de plusieurs décors parmi ceux qu’il préfère.
 

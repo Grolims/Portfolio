@@ -3,7 +3,7 @@ title: "Virtualisation de postes de travail"
 date: 2016-04-20T21:05:05-05:00
 context: Apprentissage d'informaticien, travail de diplôme
 lien: "https://tinyurl.com/3hz8w78a"
-role: "Redacteur"
+role: "Rédacteur"
 tags: [Technique, TPI, Vsphere, Vmware, Virtualisation, Réseau, Analyse ]
 
 ---
@@ -26,7 +26,7 @@ Le but de ce projet et de virtualiser l’ensemble des postes pour permettre une
 et automatisée de ce parc informatique.
 
 ### Distinction
-Evalué par les chefs expert cantonaux ICT-formation et nominé parmi les 10 meilleurs travaux pratiques de Suisse.
+Evalué par les chefs experts cantonaux ICT-formation et nominé parmi les 10 meilleurs travaux pratiques de Suisse.
 
 {{< figureCupper
 img="Distinction_ICT.jpg" 

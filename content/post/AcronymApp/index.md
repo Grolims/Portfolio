@@ -2,7 +2,7 @@
 title: "AcronymApp"
 date: 2020-01-20T21:05:05-05:00
 context: "Bachelor en ingénierie des médias"
-lien: "https://tinyurl.com/298pfrj5"
+lien: "-"
 role: "Maquettage, Rédaction"
 tags: [Figma, UX, UI, Tests Utilisateurs]
 
@@ -19,7 +19,7 @@ AcronymApp est une Webapp destinée à familiariser toutes les nouvelles personn
 
 AcronymApp doit être plus qu’une simple application de consultation. Elle doit proposer aux utilisateurs une interaction motivante.
 
-La forme de l’interaction est libre mais le but doit être de retenir un maximum d’acronymes et d’abréviations par une utilisation régulière de cette Webapp. On doit pouvoir également facilement retrouver toutes les informations dans un lexique. En terme d’identité visuelle, seul le logo de l’école doit apparaître quelque part. 
+La forme de l’interaction est libre mais le but doit être de retenir un maximum d’acronymes et d’abréviations par une utilisation régulière de cette Webapp. On doit pouvoir également facilement retrouver toutes les informations dans un lexique. En termes d’identité visuelle, seul le logo de l’école doit apparaître quelque part. 
 
 ## Réalisation
 Voici quelques captures d'écrans de la réalisation de ce projet, pour plus de détail et pour utiliser la maquette interactive (clic sur le lien dans l'entête de la page)

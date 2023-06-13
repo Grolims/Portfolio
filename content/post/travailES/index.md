@@ -9,7 +9,7 @@ tags: [Cloud, Vmware, Virtualisation, Réseau, Analyse ]
 ---
 
 ## Le contexte
-Mandaté par l'entreprise Globaz SA afin d’évaluer les solutions de clouds publics de les comparer avec le cloud privé interne de Globaz et de les tester en déployant différents services. Mais aussi de mettre en place d'une intégration avec l’outil Vmware Automation.
+Mandaté par l'entreprise Globaz SA afin d’évaluer les solutions de clouds publics, de les comparer avec le cloud privé interne de Globaz et de les tester en déployant différents services. Mais aussi de mettre en place d'une intégration avec l’outil Vmware Automation.
 
 ## Le projet
 Actuellement l’entreprise Globaz dispose d’une infrastructure virtuelle gérée avec la suite
@@ -24,7 +24,7 @@ le but d’intégrer la mise en place de machines virtuelles dans le cloud publi
 
 ### Distinction
 
-Prix pour l’un des meilleures travaux dans la section "Informatique" avec la note de 6. 
+Prix pour l’un des meilleurs travaux dans la section "Informatique" avec la note de 6. 
 
 ## Objectifs
 Le but principal de ce projet est de mettre à disposition une banque de données permettant de comparer les

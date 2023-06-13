@@ -8,10 +8,10 @@ tags: [D3, Javascript, Dataviz, Leaflet, API,   ]
 
 ---
 ## Contexte
-Projet final pour le cours "Visualisation de données" ou le but est de créer une visualisation à partir de plusieurs jeux de données. Lavisualisation doit faire passer un message, raconter une "histoire", ainsi que décrire le contexte dans lequel s'inscrivent les graphiques.
+Projet final pour le cours "Visualisation de données" ou le but est de créer une visualisation à partir de plusieurs jeux de données. La visualisation doit faire passer un message, raconter une "histoire", ainsi que décrire le contexte dans lequel s'inscrivent les graphiques.
 
 ## Projet
-Réalisation de graphiques avec D3 et Javascript afin d'explorer les gains dans l'esports, comment ces derniers ont évolué et comment cette industrie se globalise.
+Réalisation de graphiques avec D3 et JavaScript afin d'explorer les gains dans l'esport, comment ces derniers ont évolué et comment cette industrie se globalise.
 
 *Rôles: Préparation des données / Création du barchart*
 
@@ -22,5 +22,5 @@ command="Original">}}
 
 {{< figureCupper
 img="esport2.PNG" 
-caption="les gains des 100 joueurs ayant le plus de gains dans l’histoire de nos données filtrées par nationalité et organisé par pays"  
+caption="les gains des 100 joueurs ayant le plus de gains, filtrés par nationalité et organisés par pays"  
 command="Original">}}

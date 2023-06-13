@@ -8,21 +8,21 @@ tags: [Collaboration, Photographie, Vidéo, Court Métrage, Création]
 toc: true
 
 ---
-Production de contenus médias / audiovisuelles sous différents formats durant l'ensemble de la formation : 
+Production de contenus médias / audiovisuel sous différents formats durant l'ensemble de la formation : 
 
 
-* **Photographie** : technique de photographie et analyse d'images, répondre à un brief créatif
+* **Photographie** : technique de photographie et analyse d'images, répondre à un brief créatif.
 
-* **Vidéos**: création de courts métrages, vulgarisation, interviews
+* **Vidéos**: création de courts métrages, vulgarisation, interviews.
 
-* **Son**: gestion et étalonnage du son, création de podcasts
+* **Son**: gestion et étalonnage du son, création de podcasts.
 
 
 ## Photographies
 
-### Photo personnelles
+### Photos personnelles
 
-Petit aperçu des différentes photo réalisées pendant mon temps libre.
+Petit aperçu des différentes photos réalisées pendant mon temps libre.
 
  {{< figureCupper
 img="photoanimal.PNG" 
@@ -38,15 +38,15 @@ command="Original">}}
 
  {{< figureCupper
 img="papi.jpg" 
-caption="Photographie paysage"  
+caption="Photographie de paysage"  
 command="Original">}}
 
-### Cours production contenu médias
+### Cours de production contenue média
 Création de photographies afin de répondre à un brief créatif
 
 #### Le brief
 
-Vos clients voudraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction "imaginaire" mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables etc, et des réflexions autour de celles-ci. 
+Vos clients voudraient lancer un nouveau magazine « Imagine » qui s’intéresse à tout ce qui stimule l’imaginaire. Il y aura à la fois des textes de fiction "imaginaire" mais aussi du contenu plus « réaliste » sur les technologies, les progrès sociaux, énergies renouvelables, etc, et des réflexions autour de celles-ci. 
 
 Le public couvre les jeunes adultes jusqu’aux seniors et une étude de marché montre que la classe 20-50 ans est la plus concernée. L’article principal sera consacré à la Maison d’Ailleurs et sa photo fera la couverture.
 
@@ -76,7 +76,7 @@ suivre peut-être ?
 
  {{< figureCupper
 img="Mertenat Martin _2.jpg" 
-caption="Faire face à l’inconnue"  
+caption="Faire face à l’inconnu"  
 command="Original">}}
 
 
@@ -86,7 +86,7 @@ Réalisation d'une stratégie de communication autour d'un angle spécifique, ic
 
 #### Contexte
 Deli’Vrac est une jeune entreprise dynamique active dans la vente en ligne de produits du terroir en vrac. À ses commandes: Sara Ruivo Pereira, jeune entrepreneuse qui n'a pas peur de relever les défis et retrousser ses manches.
-Pionnière dans son concept en suisse romande, elle doit encore étendre sa clientèle et la fidéliser.
+Pionnière dans son concept en Suisse romande, elle doit encore étendre sa clientèle et la fidéliser.
 
 *Projet de groupe*
 
@@ -101,7 +101,7 @@ command="Original">}}
 
 
 ### Analyse de marché
-Création d'une vidéo didactique en groupe démontrant le processus générique d'achat dans le cadre du cours analyse de marché.
+Création d'une vidéo didactique en groupe démontrant le processus générique d'achat dans le cadre du cours d’analyse de marché.
 
 *Projet de groupe*
 
