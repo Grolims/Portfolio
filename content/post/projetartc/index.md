@@ -5,7 +5,7 @@ context: "Bachelor en ingénierie des médias"
 lien: "https://github.com/bread-inc/projart2021"
 
 role: "Développeur, Gestion de la carte, UX/UI, Design"
-tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Design]
+tags: [Collaboration, Développement, Front End, Leaflet, Vue, Laravel, Design, UX, UI]
 
 ---
 ## Contexte
