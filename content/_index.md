@@ -4,7 +4,7 @@ title: "Martin Mertenat"
 ---
 {{< ticks >}} 
 
-* 💻   Ingénieur des médias 
+* 💻   Ingénieur HES des médias
 * 🌲    Promenade en forêt 
 * 📷    Photographie  
 * 🎬 Cinéma
