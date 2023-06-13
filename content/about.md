@@ -3,7 +3,7 @@ date: "2014-04-09"
 title: "Présentation"
 ---
 
-Martin 27 ans,[Ingénieur HES des médias]({{< ref "/post/ingémedia" >}} "ig") et passionné par la culture numérique telle que les jeux vidéos l'e-sport et la photographie.
+Martin 27 ans, [Ingénieur HES des médias]({{< ref "/post/ingémedia" >}} "ig") et passionné par la culture numérique telle que les jeux vidéos l'e-sport et la photographie.
 
 
 
